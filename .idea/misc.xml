@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/adraf/AndroidStudioProjects/Folklore_HandCraft/app/src/main/res/layout/activity_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/adraf/AndroidStudioProjects/Folklore_HandCraft/app/src/main/res/drawable/ic_location.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/adraf/AndroidStudioProjects/Folklore_HandCraft/app/src/main/res/layout/activity_add_item.xml" value="0.1" />
+        <entry key="..\:/Users/adraf/AndroidStudioProjects/Folklore_HandCraft/app/src/main/res/layout/activity_item_details.xml" value="0.5" />
+        <entry key="..\:/Users/adraf/AndroidStudioProjects/Folklore_HandCraft/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
